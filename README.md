@@ -1,10 +1,10 @@
-##https://travis-ci.com/SeatownAC/13-object-relational-mapping#
+## https://travis-ci.com/SeatownAC/13-object-relational-mapping.svg?branch=master
 
-##13: Object Relation Mapping
+### 13: Object Relation Mapping
 
-##Travis https://travis-ci.com/SeatownAC/13-object-relational-mapping
-##Heroku https://lab13-object-relational-map.herokuapp.com/
-##GitHub https://github.com/SeatownAC/13-object-relational-mapping/pull/3
+# Travis https://travis-ci.com/SeatownAC/13-object-relational-mapping
+# Heroku https://lab13-object-relational-map.herokuapp.com/
+# GitHub https://github.com/SeatownAC/13-object-relational-mapping/pull/3
 
 ## Server Endpoints
 ### `/api/v1/resource-name`
