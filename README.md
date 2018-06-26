@@ -4,7 +4,7 @@
 
 ##Travis https://travis-ci.com/SeatownAC/13-object-relational-mapping
 ##Heroku https://lab13-object-relational-map.herokuapp.com/
-##GitHub https://github.com/SeatownAC/13-object-relational-mapping/pull/2
+##GitHub https://github.com/SeatownAC/13-object-relational-mapping/pull/3
 
 ## Server Endpoints
 ### `/api/v1/resource-name`
